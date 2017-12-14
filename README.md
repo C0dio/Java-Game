@@ -9,3 +9,4 @@ Repository for small games that I have programmed in under 24 hours.
   degree and I feel like this game expresses how willing I am to apply new information to a type of project
   I have never attempted before. I would also like to note the graphics and artwork was created by me using
   Adobe Illustrator and other similar products.
+  [To Play: Use the WASD keys and avoid the correct enemy]
