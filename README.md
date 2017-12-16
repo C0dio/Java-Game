@@ -1,5 +1,5 @@
 # SimpleGames
-Repository for small games that I have programmed in under 24 hours.
+Repository for small games that I have programmed.
 
 # Lewis_C_TheGame
   I have created this game as part of my Software Architecture module while attending Salford University.
