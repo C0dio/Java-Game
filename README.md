@@ -1,4 +1,4 @@
-# SimpleGames
+# Simple Game
 Repository for small games that I have programmed.
 
 # Lewis_C_TheGame
