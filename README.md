@@ -11,8 +11,8 @@ You will spawn as an Egg that can move around the screen. While an Egg, you will
 If you survive long enough you will evolve into a graceful caterpillar where you will no longer be affected by the dreaded Ladybug, but shortly after you evolve the environment will evolve too and the ladybugs will be replaced with birds - your new natural predator.
 Finally you will evolve into a Butterfly where you will have to avoid being eaten by frogs.
 
-Be warned, as you evolve the enemies will evolve to, increasing their speed to try and eat you.
-Use the WASD keys to move around and avoid the enemies.
+Be warned, as you evolve the enemies will evolve too, increasing their speed to try and eat you.
+Use the WASD keys to move around and avoid your natural predator.
 
 # Screens
 
